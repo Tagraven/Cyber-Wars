@@ -35,25 +35,46 @@ Cyber Attacks: Real-world malware and cyber weapons used by the selected groups 
 Incident Response Teams: Specialized teams that help mitigate and respond to cyber incidents, bolstering a player's defenses.
 
 Deck Example: Anonymous Deck
+
 Defensive Assets:
 
-Tor Network (2 Resilience)
+Tor Network (3 Resilience + 3 Stress)
+
 VPN Services (2 Resilience)
+
 Bulletproof Hosting (2 Resilience)
+
 Encrypted Communication Platforms (2 Resilience)
+
 Next-Generation Firewalls (2 Resilience)
+
 Offensive Assets:
 
-Anonymous
-Lazarus Group
-Cobalt Group
-Charming Kitten (APT35)
-DarkHotel
+Anonymous Group (3 Stress)
+
+Lazarus Group (2 Stress)
+
+Cobalt Group (2 Stress)
+
+Charming Kitten (APT35) (2 Stress)
+
+DarkHotel (2 Stress)
+
 Cyber Weapons:
 
 Low Orbit Ion Cannon (LOIC) — Precision Strike
+
 WannaCry — Global Disruption
+
 Carbanak — Targeted Multi-Vector Attack
+
 Magic Hound — Deep Penetration
+
 Inexsmar — Precision Strike
+
+Incident Response:
+
+Each deck poses 3 Cyber Incident Response Cards able to add Resilience or mitigate damage when defending cyber attack,
+and 2 Active Defence cards that allow players to launch counter attacks against their opponents.
+
 Cyber Wars is a comprehensive tool for anyone interested in cybersecurity, from beginners looking to learn the basics to professionals seeking to refine their strategic thinking. The game combines education with entertainment, providing an immersive experience that highlights the complexity and importance of cybersecurity in today's world.
