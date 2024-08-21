@@ -79,10 +79,20 @@ Magic Hound — Deep Penetration
 
 Inexsmar — Precision Strike
 
-Incident Response:
-
 Each deck possess 3 Cyber Incident Response Cards able to add Resilience or mitigate damage when defending cyber attack,
 and 2 Active Defence cards that allow players to launch counter attacks against their opponents.
+
+Objectives Deck:
+
+The Objectives Deck comprises of the following cards:
+
+3x Transport Disruptor, 3x Healthcare Disruptor, 3x Military Disruptor, 3x Energy Disruptor, 3x Telecomms Disruptor
+
+3x Survivor
+
+2x Cyber Domination
+
+
 
 Cyber Wars is a comprehensive tool for anyone interested in cybersecurity, from beginners looking to learn the basics to professionals seeking to refine their strategic thinking. The game combines education with entertainment, providing an immersive experience that highlights the complexity and importance of cybersecurity in today's world.
 
