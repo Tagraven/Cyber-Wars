@@ -87,4 +87,4 @@ and 2 Active Defence cards that allow players to launch counter attacks against 
 Cyber Wars is a comprehensive tool for anyone interested in cybersecurity, from beginners looking to learn the basics to professionals seeking to refine their strategic thinking. The game combines education with entertainment, providing an immersive experience that highlights the complexity and importance of cybersecurity in today's world.
 
 
-**Cyber Wars was developed as part Ian Caples, of University West of Englands (UWE) MSc Cyber Security program, for the Cyber Security Research Paper "Use of immersive gamification in cyber security continuous personal development."**
+**Cyber Wars was developed as part Ian Caple's, of University West of Englands (UWE) MSc Cyber Security program, for the Cyber Security Research Paper "Use of immersive gamification in cyber security continuous personal development."**
