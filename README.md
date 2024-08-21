@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 Cyber Wars is a strategic cybersecurity card game that simulates the complex and dynamic world of global cyber operations. Players assume the roles of various nation-states or cyber groups, each vying for dominance in cyberspace. Through the deployment of offensive and defensive cyber assets, players engage in tactical maneuvers to protect their critical national infrastructure (CNI) while attempting to disrupt their opponents' operations. Cyber Wars is not just about winning; it's about learning the intricacies of cybersecurity, understanding global threat landscapes, and developing essential skills for cybersecurity professionals.
 
 How It Works
