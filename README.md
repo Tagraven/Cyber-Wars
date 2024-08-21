@@ -74,7 +74,7 @@ Inexsmar — Precision Strike
 
 Incident Response:
 
-Each deck poses 3 Cyber Incident Response Cards able to add Resilience or mitigate damage when defending cyber attack,
+Each deck possess 3 Cyber Incident Response Cards able to add Resilience or mitigate damage when defending cyber attack,
 and 2 Active Defence cards that allow players to launch counter attacks against their opponents.
 
 Cyber Wars is a comprehensive tool for anyone interested in cybersecurity, from beginners looking to learn the basics to professionals seeking to refine their strategic thinking. The game combines education with entertainment, providing an immersive experience that highlights the complexity and importance of cybersecurity in today's world.
